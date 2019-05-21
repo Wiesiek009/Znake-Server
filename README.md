@@ -1,1 +1,2 @@
-Znake-serwer
+# Znake-Server
+Basic server for Znake
